@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.exe
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.deps.json
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.runtimeconfig.json
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.dll
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\bin\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.pdb
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.dll
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.pdb
+C:\Users\Bla\source\repos\Methods\03.checkIfAllNumbersPositive\obj\Debug\netcoreapp3.1\03.checkIfAllNumbersPositive.genruntimeconfig.cache
